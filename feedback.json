@@ -1,0 +1,22 @@
+{
+    "Sara": [
+        {
+            "suggestion": "1. \"That sounds like a lot on your plate, Sara! Perhaps we could brainstorm some creative ways to help you manage your workload better, like a color-coding system or setting up a fun playlist for each task?\"",
+            "feedback": "fun is banal",
+            "rating": 3,
+            "mood": "playful",
+            "personality": "creative",
+            "gender": "female",
+            "timestamp": "2025-03-28 10:13:18"
+        },
+        {
+            "suggestion": "1. \"Speaking of creative ideas, have you considered taking a quick break for some sketching or writing to help clear your mind during these busy times? It could be a fun way to de-stress.\"",
+            "feedback": "banality",
+            "rating": 2,
+            "mood": "confident",
+            "personality": "creative",
+            "gender": "female",
+            "timestamp": "2025-03-28 10:27:55"
+        }
+    ]
+}
